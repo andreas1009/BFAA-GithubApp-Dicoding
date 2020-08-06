@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BFAA - Submission 3</string>
+    <string name="name_user">Nama user</string>
+    <string name="username">Username</string>
+    <string name="location">Balige</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan nama pengguna</string>
+    <string name="menu_1">Menu1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorit</string>
+    <string name="user_detail">User Detail</string>
+    <string name="menunggu_pencarian">Menunggu Pencarian!</string>
+    <string name="hasil_pencarian_akan_dimuat_disini">Hasil pencarian akan dimuat disini</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">Pilih bahasa</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreference
+        android:key="@string/key_reminder"
+        android:title="Reminder at 9.00 AM"
+        android:defaultValue="true"
+        android:icon="@drawable/ic_notifications"
+        android:summaryOn="Switch On"
+        android:summaryOff="Switch Off"
+        
+        />
+
+    <Preference
+        android:key="@string/key_language"
+        android:title="@string/language"
+        android:icon="@drawable/ic_translate" />
+</PreferenceScreen>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="name_user">Nama user</string>
+    <string name="username">Username</string>
+    <string name="location">Balige</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan nama user</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorite</string>
+    <string name="user_detail">User Detail</string>
+    <string name="menunggu_pencarian">Menunggu Pencarian!</string>
+    <string name="hasil_pencarian_akan_dimuat_disini">Hasil pencarian akan dimuat disini</string>
+    <string name="title_activity_user_detail" translatable="false">UserDetail</string>
+    <string name="key_reminder" translatable="false">reminder</string>
+    <string name="key_language" translatable="false">language</string>
+    <string name="nothing" translatable="false">Nothing</string>
+    <string name="language" translatable="false">Select Language</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world" translatable="false">Hello Square World!</string>
+    <string name="setting" translatable="false">Setting</string>
+</resources>
